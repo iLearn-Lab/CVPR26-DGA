@@ -4,3 +4,4 @@ models/vit_base_patch16_224/pytorch_model.bin
 *.pt
 *.ckpt
 models/vit_base_patch16_224/pytorch_model.bin
+models/vit_base_patch16_224/pytorch_model.bin
