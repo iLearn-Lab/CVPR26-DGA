@@ -1,0 +1,6 @@
+models/vit_base_patch16_224/pytorch_model.bin
+*.bin
+*.pth
+*.pt
+*.ckpt
+models/vit_base_patch16_224/pytorch_model.bin
