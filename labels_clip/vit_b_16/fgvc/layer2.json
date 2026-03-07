@@ -1,0 +1,102 @@
+{
+  "layer2_0": [
+    "layer1_2",
+    "layer1_6"
+  ],
+  "layer2_1": [
+    "layer1_4",
+    "layer1_9"
+  ],
+  "layer2_2": [
+    "layer1_14",
+    "layer1_23"
+  ],
+  "layer2_3": [
+    "layer1_8",
+    "layer1_10"
+  ],
+  "layer2_4": [
+    "layer1_17",
+    "layer1_26"
+  ],
+  "layer2_5": [
+    "layer1_13",
+    "layer1_31"
+  ],
+  "layer2_6": [
+    "layer1_5",
+    "layer1_27"
+  ],
+  "layer2_7": [
+    "layer1_7",
+    "layer1_12"
+  ],
+  "layer2_8": [
+    "layer1_30",
+    "layer1_38"
+  ],
+  "layer2_9": [
+    "layer1_1",
+    "layer1_39"
+  ],
+  "layer2_10": [
+    "layer1_18",
+    "layer1_20"
+  ],
+  "layer2_11": [
+    "layer1_19",
+    "layer1_33"
+  ],
+  "layer2_12": [
+    "layer1_21",
+    "layer1_40"
+  ],
+  "layer2_13": [
+    "layer1_28",
+    "layer1_32"
+  ],
+  "layer2_14": [
+    "layer1_25",
+    "layer1_44"
+  ],
+  "layer2_15": [
+    "layer1_22",
+    "layer1_24"
+  ],
+  "layer2_16": [
+    "layer1_16",
+    "layer1_29"
+  ],
+  "layer2_17": [
+    "layer1_15",
+    "layer1_36"
+  ],
+  "layer2_18": [
+    "layer1_37",
+    "layer1_43"
+  ],
+  "layer2_19": [
+    "layer1_3",
+    "layer1_34"
+  ],
+  "layer2_20": [
+    "layer1_11",
+    "layer1_47"
+  ],
+  "layer2_21": [
+    "layer1_45",
+    "layer1_46"
+  ],
+  "layer2_22": [
+    "layer1_42",
+    "layer1_49"
+  ],
+  "layer2_23": [
+    "layer1_41",
+    "layer1_48"
+  ],
+  "layer2_24": [
+    "layer1_0",
+    "layer1_35"
+  ]
+}

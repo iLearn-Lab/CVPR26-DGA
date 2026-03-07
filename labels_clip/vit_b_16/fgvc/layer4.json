@@ -1,0 +1,29 @@
+{
+  "layer4_0": [
+    "layer3_2",
+    "layer3_7"
+  ],
+  "layer4_1": [
+    "layer3_4",
+    "layer3_5"
+  ],
+  "layer4_2": [
+    "layer3_10",
+    "layer3_12"
+  ],
+  "layer4_3": [
+    "layer3_3",
+    "layer3_9"
+  ],
+  "layer4_4": [
+    "layer3_1",
+    "layer3_11"
+  ],
+  "layer4_5": [
+    "layer3_0",
+    "layer3_8"
+  ],
+  "layer4_6": [
+    "layer3_6"
+  ]
+}
