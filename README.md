@@ -1,4 +1,18 @@
+<div align="center">
+
 # Boosting Visual Reprogramming for CLIP with Dual Granularity Alignment [CVPR26]
+
+[Jiayang Wu](https://openreview.net/profile?id=~Jiayang_Wu6)<sup>1</sup> &nbsp;&nbsp;
+[Xinyang Chen](https://openreview.net/profile?id=~Xinyang_Chen1)<sup>1†</sup> &nbsp;&nbsp;
+[Ke Lv](https://openreview.net/profile?id=~Ke_Lv2)<sup>2,4</sup> &nbsp;&nbsp;
+[Weili Guan](https://openreview.net/profile?id=~Weili_Guan4)<sup>1,3†</sup>
+
+<sup>1</sup>Harbin Institute of Technology (Shenzhen) &nbsp;&nbsp;
+<sup>2</sup>University of the Chinese Academy of Sciences  
+<sup>3</sup>Shenzhen Loop Area Institute &nbsp;&nbsp;
+<sup>4</sup>Peng Cheng Laboratory
+
+</div>
 
 ## Requirements
 
