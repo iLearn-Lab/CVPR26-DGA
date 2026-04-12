@@ -1,6 +1,6 @@
 <div align="center">
 
-# Boosting Visual Reprogramming for CLIP with Dual Granularity Alignment [CVPR26]
+# Boosting Visual Reprogramming for CLIP with Dual Granularity Alignment [CVPR26 Highlight]
 
 [Jiayang Wu](https://openreview.net/profile?id=~Jiayang_Wu6)<sup>1</sup> &nbsp;&nbsp;
 [Xinyang Chen](https://openreview.net/profile?id=~Xinyang_Chen1)<sup>1†</sup> &nbsp;&nbsp;
