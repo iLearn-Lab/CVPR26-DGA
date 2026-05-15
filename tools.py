@@ -256,6 +256,6 @@ def build_loader(dataset_name, root_path, train_preprocess=None, test_preprocess
 
 def build_loader_cluster(dataset_name, root_path, batch_size=64, shot=16, seed=0, cluster_preprocess=None):
     dataset = build_cluster_dataset(dataset_name, root_path, shot, seed)
-    cluster_loader = build_cluster_loader(data_source=dataset.test, batch_size=batch_size, is_train=False, tfm=cluster_preprocess, shuffle=False)
+    cluster_loader = build_cluster_loader(data_source=dataset.train_x, batch_size=batch_size, is_train=False, tfm=cluster_preprocess, shuffle=False)
     return cluster_loader, dataset.classnames
 
